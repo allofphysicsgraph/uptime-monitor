@@ -4,36 +4,40 @@
     "url": "https://allofphysics.com/",
     "icon": "https://icons.duckduckgo.com/ip3/allofphysics.com.ico",
     "slug": "allofphysics",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.89%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
     "time": 454,
     "timeDay": 454,
     "timeWeek": 454,
     "timeMonth": 454,
     "timeYear": 454,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-14": 2
+    }
   },
   {
     "name": "derivationmap",
     "url": "https://derivationmap.net/",
     "icon": "https://icons.duckduckgo.com/ip3/derivationmap.net.ico",
     "slug": "derivationmap",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 468,
     "timeDay": 468,
     "timeWeek": 468,
     "timeMonth": 468,
     "timeYear": 468,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-14": 0
+    }
   },
   {
     "name": "Google",
