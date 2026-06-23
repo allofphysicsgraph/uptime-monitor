@@ -4,11 +4,11 @@
     "url": "https://allofphysics.com/",
     "icon": "https://icons.duckduckgo.com/ip3/allofphysics.com.ico",
     "slug": "allofphysics",
-    "status": "up",
+    "status": "down",
     "uptime": "97.96%",
-    "uptimeDay": "65.92%",
-    "uptimeWeek": "95.13%",
-    "uptimeMonth": "98.88%",
+    "uptimeDay": "65.28%",
+    "uptimeWeek": "95.04%",
+    "uptimeMonth": "98.86%",
     "uptimeYear": "97.96%",
     "time": 1344,
     "timeDay": 19340,
@@ -27,7 +27,7 @@
       "2026-04-28": 150,
       "2026-05-02": 757,
       "2026-05-01": 596,
-      "2026-06-23": 491
+      "2026-06-23": 500
     }
   },
   {
@@ -35,10 +35,10 @@
     "url": "https://derivationmap.net/",
     "icon": "https://icons.duckduckgo.com/ip3/derivationmap.net.ico",
     "slug": "derivationmap",
-    "status": "up",
+    "status": "down",
     "uptime": "97.99%",
-    "uptimeDay": "67.18%",
-    "uptimeWeek": "95.31%",
+    "uptimeDay": "67.13%",
+    "uptimeWeek": "95.30%",
     "uptimeMonth": "98.92%",
     "uptimeYear": "97.99%",
     "time": 1149,
@@ -57,7 +57,7 @@
       "2026-04-28": 149,
       "2026-05-02": 758,
       "2026-05-01": 596,
-      "2026-06-23": 472
+      "2026-06-23": 473
     }
   },
   {
